@@ -1,0 +1,8 @@
+__pycache__/
+.idea/
+build/
+dist/
+venv/
+main.spec
+shutdown_timer.spec
+shutdown.spec
